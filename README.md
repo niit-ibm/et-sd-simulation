@@ -15,8 +15,9 @@ The IBM Granite model for code generation can help identify and correct errors i
 ### Step 1: Generate the Code in Watsonx Prompt Lab
 
 **Instructions**: Begin by entering a prompt in the Watsonx Prompt Lab chat interface to generate code for a basic calculator that performs addition, subtraction, and division operations. 
+<div>
 <img loading="lazy" width="30px" src="./assets/IMG1.png" alt="Watsonx PromptLB">
-
+</div>
 ![img2](./assets/IMG2.png)
 Create a Python function called calculator that takes two numbers and an operation ('add', 'subtract', 'divide') and returns the result. 
 ![img3](./assets/IMG3.png)
