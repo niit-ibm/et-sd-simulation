@@ -19,9 +19,9 @@ The IBM Granite model for code generation can help identify and correct errors i
 ![img2](./assets/IMG2.png)
 Create a Python function called calculator that takes two numbers and an operation ('add', 'subtract', 'divide') and returns the result. 
 ![img3](./assets/IMG3.png)
-**Generated Code**:
+<!-- **Generated Code**: -->
 ![img4](./assets/IMG4.png)
-```python
+<!-- ```python
 def calculator(x, y, operation):
     if operation = 'add':
         return x + y
@@ -34,7 +34,7 @@ def calculator(x, y, operation):
 
 result = calculator(5, 10, 'add')
 print("The result is: " + result)
-```
+``` -->
 ## Hands-On Troubleshooting Activity
 
 ### Step 1: Code Review
